@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+}
+#SC {
+  position: relative;
+}
+
+#SC img {
+  width: 175px;
+  height: 150px;
+  position: absolute;
+  top: 130px;
+  left: 30px;
+}

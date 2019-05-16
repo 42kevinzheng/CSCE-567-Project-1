@@ -1,0 +1,934 @@
+{ 
+  "USC00381479": [
+    {
+      "STATION": "USC00381479",
+      "NAME": "CEDAR CREEK 2 E, SC US",
+      "DATE": 2000,
+      "PRCP": 52.34,
+      "TAVG": 75.2,
+      "TMAX": 86.4,
+      "TMIN": 31.1
+    },
+    {
+      "STATION": "USC00381479",
+      "NAME": "CEDAR CREEK 2 E, SC US",
+      "DATE": 2006,
+      "PRCP": 48.35,
+      "TAVG": 60.1,
+      "TMAX": 74.2,
+      "TMIN": 46
+    },
+    {
+      "STATION": "USC00381479",
+      "NAME": "CEDAR CREEK 2 E, SC US",
+      "DATE": 2007,
+      "PRCP": 30.64,
+      "TAVG": 60.8,
+      "TMAX": 75.7,
+      "TMIN": 45.9
+    },
+    {
+      "STATION": "USC00381479",
+      "NAME": "CEDAR CREEK 2 E, SC US",
+      "DATE": 2008,
+      "PRCP": 53.19,
+      "TAVG": 60.2,
+      "TMAX": 74.2,
+      "TMIN": 46.1
+    },
+    {
+      "STATION": "USC00381479",
+      "NAME": "CEDAR CREEK 2 E, SC US",
+      "DATE": 2009,
+      "PRCP": 48.24,
+      "TAVG": 60.5,
+      "TMAX": 73.4,
+      "TMIN": 47.5
+    },
+    {
+      "STATION": "USC00381479",
+      "NAME": "CEDAR CREEK 2 E, SC US",
+      "DATE": 2010,
+      "PRCP": 33.81,
+      "TAVG": 60.3,
+      "TMAX": 74.5,
+      "TMIN": 46
+    },
+    {
+      "STATION": "USC00381479",
+      "NAME": "CEDAR CREEK 2 E, SC US",
+      "DATE": 2011,
+      "PRCP": 40.18,
+      "TAVG": 61.7,
+      "TMAX": 75.8,
+      "TMIN": 47.6
+    },
+    {
+      "STATION": "USC00381479",
+      "NAME": "CEDAR CREEK 2 E, SC US",
+      "DATE": 2012,
+      "PRCP": 38.78,
+      "TAVG": 62.2,
+      "TMAX": 75.7,
+      "TMIN": 48.7
+    },
+    {
+      "STATION": "USC00381479",
+      "NAME": "CEDAR CREEK 2 E, SC US",
+      "DATE": 2014,
+      "PRCP": 47.8,
+      "TAVG": 59.7,
+      "TMAX": 73.2,
+      "TMIN": 46.2
+    },
+    {
+      "STATION": "USC00381479",
+      "NAME": "CEDAR CREEK 2 E, SC US",
+      "DATE": 2015,
+      "PRCP": 63.52,
+      "TAVG": 62.2,
+      "TMAX": 74.8,
+      "TMIN": 49.6
+    },
+    {
+      "STATION": "USC00381479",
+      "NAME": "CEDAR CREEK 2 E, SC US",
+      "DATE": 2016,
+      "PRCP": 43.65,
+      "TAVG": 62.5,
+      "TMAX": 75.9,
+      "TMIN": 49.2
+    },
+    {
+      "STATION": "USC00381479",
+      "NAME": "CEDAR CREEK 2 E, SC US",
+      "DATE": 2017,
+      "PRCP": 45.3,
+      "TAVG": 62.6,
+      "TMAX": 76,
+      "TMIN": 49.2
+    },
+    {
+      "STATION": "USC00381479",
+      "NAME": "CEDAR CREEK 2 E, SC US",
+      "DATE": 2018,
+      "PRCP": 52.57,
+      "TAVG": 61.4,
+      "TMAX": 73.8,
+      "TMIN": 48.9
+    }
+  ],
+  "USW00053867": [
+    {
+      "STATION": "USW00053867",
+      "NAME": "COLUMBIA OWENS DOWNTOWN AIRPORT, SC US",
+      "DATE": 2001,
+      "PRCP": 27.65,
+      "TAVG": 81.1,
+      "TMAX": 90,
+      "TMIN": 40
+    },
+    {
+      "STATION": "USW00053867",
+      "NAME": "COLUMBIA OWENS DOWNTOWN AIRPORT, SC US",
+      "DATE": 2002,
+      "PRCP": 39.03,
+      "TAVG": 66,
+      "TMAX": 76.5,
+      "TMIN": 55.5
+    },
+    {
+      "STATION": "USW00053867",
+      "NAME": "COLUMBIA OWENS DOWNTOWN AIRPORT, SC US",
+      "DATE": 2003,
+      "PRCP": 54.69,
+      "TAVG": 63.4,
+      "TMAX": 73.6,
+      "TMIN": 53.3
+    },
+    {
+      "STATION": "USW00053867",
+      "NAME": "COLUMBIA OWENS DOWNTOWN AIRPORT, SC US",
+      "DATE": 2004,
+      "PRCP": 39.84,
+      "TAVG": 76.4,
+      "TMAX": 82.4,
+      "TMIN": 37.2
+    },
+    {
+      "STATION": "USW00053867",
+      "NAME": "COLUMBIA OWENS DOWNTOWN AIRPORT, SC US",
+      "DATE": 2005,
+      "PRCP": 40.57,
+      "TAVG": 64.4,
+      "TMAX": 74.9,
+      "TMIN": 54
+    },
+    {
+      "STATION": "USW00053867",
+      "NAME": "COLUMBIA OWENS DOWNTOWN AIRPORT, SC US",
+      "DATE": 2006,
+      "PRCP": 33.95,
+      "TAVG": 65.2,
+      "TMAX": 76.1,
+      "TMIN": 54.2
+    },
+    {
+      "STATION": "USW00053867",
+      "NAME": "COLUMBIA OWENS DOWNTOWN AIRPORT, SC US",
+      "DATE": 2007,
+      "PRCP": 29.34,
+      "TAVG": 66.1,
+      "TMAX": 77.3,
+      "TMIN": 54.9
+    },
+    {
+      "STATION": "USW00053867",
+      "NAME": "COLUMBIA OWENS DOWNTOWN AIRPORT, SC US",
+      "DATE": 2008,
+      "PRCP": 42.98,
+      "TAVG": 64.8,
+      "TMAX": 75.5,
+      "TMIN": 54
+    },
+    {
+      "STATION": "USW00053867",
+      "NAME": "COLUMBIA OWENS DOWNTOWN AIRPORT, SC US",
+      "DATE": 2009,
+      "PRCP": 44.15,
+      "TAVG": 64.5,
+      "TMAX": 74.7,
+      "TMIN": 54.4
+    },
+    {
+      "STATION": "USW00053867",
+      "NAME": "COLUMBIA OWENS DOWNTOWN AIRPORT, SC US",
+      "DATE": 2010,
+      "PRCP": 34.98,
+      "TAVG": 64.7,
+      "TMAX": 75.7,
+      "TMIN": 53.7
+    },
+    {
+      "STATION": "USW00053867",
+      "NAME": "COLUMBIA OWENS DOWNTOWN AIRPORT, SC US",
+      "DATE": 2011,
+      "PRCP": 43.95,
+      "TAVG": 66.1,
+      "TMAX": 77.5,
+      "TMIN": 54.8
+    },
+    {
+      "STATION": "USW00053867",
+      "NAME": "COLUMBIA OWENS DOWNTOWN AIRPORT, SC US",
+      "DATE": 2012,
+      "PRCP": 43.15,
+      "TAVG": 66.7,
+      "TMAX": 77.5,
+      "TMIN": 55.8
+    },
+    {
+      "STATION": "USW00053867",
+      "NAME": "COLUMBIA OWENS DOWNTOWN AIRPORT, SC US",
+      "DATE": 2013,
+      "PRCP": 52.67,
+      "TAVG": 64.6,
+      "TMAX": 74.9,
+      "TMIN": 54.4
+    },
+    {
+      "STATION": "USW00053867",
+      "NAME": "COLUMBIA OWENS DOWNTOWN AIRPORT, SC US",
+      "DATE": 2014,
+      "PRCP": 46.49,
+      "TAVG": 64.3,
+      "TMAX": 75.1,
+      "TMIN": 53.6
+    },
+    {
+      "STATION": "USW00053867",
+      "NAME": "COLUMBIA OWENS DOWNTOWN AIRPORT, SC US",
+      "DATE": 2015,
+      "PRCP": 64.62,
+      "TAVG": 66.7,
+      "TMAX": 76.9,
+      "TMIN": 56.5
+    },
+    {
+      "STATION": "USW00053867",
+      "NAME": "COLUMBIA OWENS DOWNTOWN AIRPORT, SC US",
+      "DATE": 2016,
+      "PRCP": 43.27,
+      "TAVG": 67.1,
+      "TMAX": 77.7,
+      "TMIN": 56.5
+    },
+    {
+      "STATION": "USW00053867",
+      "NAME": "COLUMBIA OWENS DOWNTOWN AIRPORT, SC US",
+      "DATE": 2017,
+      "PRCP": 46.17,
+      "TAVG": 67.5,
+      "TMAX": 78.2,
+      "TMIN": 56.7
+    },
+    {
+      "STATION": "USW00053867",
+      "NAME": "COLUMBIA OWENS DOWNTOWN AIRPORT, SC US",
+      "DATE": 2018,
+      "PRCP": 51.38,
+      "TAVG": 66.2,
+      "TMAX": 76.2,
+      "TMIN": 56.1
+    }
+  ],
+  "US1SCLX0054": [
+    {
+      "STATION": "US1SCLX0054",
+      "NAME": "WEST COLUMBIA 6.5 WSW, SC US",
+      "DATE": 2015,
+      "PRCP": 70.7,
+      "TAVG": 76.4,
+      "TMAX": 82.4,
+      "TMIN": 37.2
+    },
+    {
+      "STATION": "US1SCLX0054",
+      "NAME": "WEST COLUMBIA 6.5 WSW, SC US",
+      "DATE": 2018,
+      "PRCP": 52.09,
+      "TAVG": 76.4,
+      "TMAX": 82.4,
+      "TMIN": 37.2
+    },
+    {
+      "STATION": "US1SCLX0054",
+      "NAME": "GASTON 5.3 E, SC US",
+      "DATE": 2010,
+      "PRCP": 42.03,
+      "TAVG": 76.4,
+      "TMAX": 82.4,
+      "TMIN": 37.2
+    },
+    {
+      "STATION": "US1SCLX0054",
+      "NAME": "COLUMBIA 8.4 NNW, SC US",
+      "DATE": 2017,
+      "PRCP": 43.2,
+      "TAVG": 74,
+      "TMAX": 79,
+      "TMIN": 40.2
+    },
+    {
+      "STATION": "US1SCLX0054",
+      "NAME": "COLUMBIA 3.1 E, SC US",
+      "DATE": 2013,
+      "PRCP": 59.09,
+      "TAVG": 69.4,
+      "TMAX": 70.4,
+      "TMIN": 50.2
+    },
+    {
+      "STATION": "US1SCLX0054",
+      "NAME": "COLUMBIA 3.1 E, SC US",
+      "DATE": 2014,
+      "PRCP": 49.17,
+      "TAVG": 68.3,
+      "TMAX": 76.4,
+      "TMIN": 40.2
+    },
+    {
+      "STATION": "US1SCLX0054",
+      "NAME": "COLUMBIA 3.1 E, SC US",
+      "DATE": 2016,
+      "PRCP": 48.11,
+      "TAVG": 73.5,
+      "TMAX": 76.4,
+      "TMIN": 50.3
+    },
+    {
+      "STATION": "US1SCLX0054",
+      "NAME": "ELGIN 1.2 SW, SC US",
+      "DATE": 2012,
+      "PRCP": 40.53,
+      "TAVG": 76.4,
+      "TMAX": 82.4,
+      "TMIN": 37.2
+    },
+    {
+      "STATION": "US1SCLX0054",
+      "NAME": "HOPKINS 3.9 NNE, SC US",
+      "DATE": 2010,
+      "PRCP": 36.46,
+      "TAVG": 76.4,
+      "TMAX": 82.4,
+      "TMIN": 37.2
+    },
+    {
+      "STATION": "US1SCLX0054",
+      "NAME": "HOPKINS 3.9 NNE, SC US",
+      "DATE": 2015,
+      "PRCP": 63.79,
+      "TAVG": 76.4,
+      "TMAX": 82.4,
+      "TMIN": 37.2
+    },
+    {
+      "STATION": "US1SCLX0054",
+      "NAME": "HOPKINS 3.9 NNE, SC US",
+      "DATE": 2018,
+      "PRCP": 59.71,
+      "TAVG": 76.4,
+      "TMAX": 82.4,
+      "TMIN": 37.2
+    }
+  ],
+  "USC00387683": [
+    {
+      "STATION": "USC00387683",
+      "NAME": "SANDY RUN 3 ENE, SC US",
+      "DATE": 2003,
+      "PRCP": 53.14,
+      "TAVG": 76.4,
+      "TMAX": 71.8,
+      "TMIN": 37.2
+    },
+    {
+      "STATION": "USC00387683",
+      "NAME": "SANDY RUN 3 ENE, SC US",
+      "DATE": 2004,
+      "PRCP": 39.34,
+      "TAVG": 76.4,
+      "TMAX": 73,
+      "TMIN": 37.2
+    },
+    {
+      "STATION": "USC00387683",
+      "NAME": "SANDY RUN 3 ENE, SC US",
+      "DATE": 2005,
+      "PRCP": 48.33,
+      "TAVG": 62.1,
+      "TMAX": 72.8,
+      "TMIN": 51.5
+    },
+    {
+      "STATION": "USC00387683",
+      "NAME": "SANDY RUN 3 ENE, SC US",
+      "DATE": 2006,
+      "PRCP": 42.35,
+      "TAVG": 76.4,
+      "TMAX": 82.4,
+      "TMIN": 37.2
+    },
+    {
+      "STATION": "USC00387683",
+      "NAME": "SANDY RUN 3 ENE, SC US",
+      "DATE": 2007,
+      "PRCP": 39.59,
+      "TAVG": 64,
+      "TMAX": 76.4,
+      "TMIN": 51.7
+    },
+    {
+      "STATION": "USC00387683",
+      "NAME": "SANDY RUN 3 ENE, SC US",
+      "DATE": 2008,
+      "PRCP": "",
+      "TAVG": 76.4,
+      "TMAX": 82.4,
+      "TMIN": 37.2
+    },
+    {
+      "STATION": "USC00387683",
+      "NAME": "SANDY RUN 3 ENE, SC US",
+      "DATE": 2009,
+      "PRCP": 56.99,
+      "TAVG": 64.3,
+      "TMAX": 74.6,
+      "TMIN": 54
+    },
+    {
+      "STATION": "USC00387683",
+      "NAME": "SANDY RUN 3 ENE, SC US",
+      "DATE": 2010,
+      "PRCP": 35.64,
+      "TAVG": 62.5,
+      "TMAX": 74.2,
+      "TMIN": 50.8
+    },
+    {
+      "STATION": "USC00387683",
+      "NAME": "SANDY RUN 3 ENE, SC US",
+      "DATE": 2011,
+      "PRCP": 42.48,
+      "TAVG": 64.2,
+      "TMAX": 76.5,
+      "TMIN": 52
+    }
+  ],
+  "USC00387666": [
+    {
+      "STATION": "USC00387666",
+      "NAME": "SANDHILL RESEARCH ELGIN, SC US",
+      "DATE": 2000,
+      "PRCP": 42.27,
+      "TAVG": 76.4,
+      "TMAX": 74.3,
+      "TMIN": 37.2
+    },
+    {
+      "STATION": "USC00387666",
+      "NAME": "SANDHILL RESEARCH ELGIN, SC US",
+      "DATE": 2002,
+      "PRCP": "",
+      "TAVG": 76.4,
+      "TMAX": 82.4,
+      "TMIN": 37.2
+    },
+    {
+      "STATION": "USC00387666",
+      "NAME": "SANDHILL RESEARCH ELGIN, SC US",
+      "DATE": 2003,
+      "PRCP": 51.56,
+      "TAVG": 76.4,
+      "TMAX": 73.2,
+      "TMIN": 37.2
+    },
+    {
+      "STATION": "USC00387666",
+      "NAME": "SANDHILL RESEARCH ELGIN, SC US",
+      "DATE": 2004,
+      "PRCP": 44.96,
+      "TAVG": 76.4,
+      "TMAX": 74.2,
+      "TMIN": 37.2
+    },
+    {
+      "STATION": "USC00387666",
+      "NAME": "SANDHILL RESEARCH ELGIN, SC US",
+      "DATE": 2005,
+      "PRCP": 45.69,
+      "TAVG": 63.8,
+      "TMAX": 74.5,
+      "TMIN": 53
+    },
+    {
+      "STATION": "USC00387666",
+      "NAME": "SANDHILL RESEARCH ELGIN, SC US",
+      "DATE": 2006,
+      "PRCP": "",
+      "TAVG": 76.4,
+      "TMAX": 75.5,
+      "TMIN": 37.2
+    },
+    {
+      "STATION": "USC00387666",
+      "NAME": "SANDHILL RESEARCH ELGIN, SC US",
+      "DATE": 2007,
+      "PRCP": "",
+      "TAVG": 76.4,
+      "TMAX": 82.4,
+      "TMIN": 37.2
+    },
+    {
+      "STATION": "USC00387666",
+      "NAME": "SANDHILL RESEARCH ELGIN, SC US",
+      "DATE": 2008,
+      "PRCP": 44.97,
+      "TAVG": 63.6,
+      "TMAX": 74.9,
+      "TMIN": 52.2
+    },
+    {
+      "STATION": "USC00387666",
+      "NAME": "SANDHILL RESEARCH ELGIN, SC US",
+      "DATE": 2009,
+      "PRCP": 40.86,
+      "TAVG": 63,
+      "TMAX": 73.9,
+      "TMIN": 52.2
+    },
+    {
+      "STATION": "USC00387666",
+      "NAME": "SANDHILL RESEARCH ELGIN, SC US",
+      "DATE": 2010,
+      "PRCP": 35.83,
+      "TAVG": 63.3,
+      "TMAX": 74.8,
+      "TMIN": 51.8
+    },
+    {
+      "STATION": "USC00387666",
+      "NAME": "SANDHILL RESEARCH ELGIN, SC US",
+      "DATE": 2012,
+      "PRCP": 34.9,
+      "TAVG": 65.2,
+      "TMAX": 76.6,
+      "TMIN": 53.8
+    },
+    {
+      "STATION": "USC00387666",
+      "NAME": "SANDHILL RESEARCH ELGIN, SC US",
+      "DATE": 2013,
+      "PRCP": 54.65,
+      "TAVG": 62.7,
+      "TMAX": 74,
+      "TMIN": 51.5
+    },
+    {
+      "STATION": "USC00387666",
+      "NAME": "SANDHILL RESEARCH ELGIN, SC US",
+      "DATE": 2014,
+      "PRCP": 46.37,
+      "TAVG": 62.9,
+      "TMAX": 74.6,
+      "TMIN": 51.1
+    },
+    {
+      "STATION": "USC00387666",
+      "NAME": "SANDHILL RESEARCH ELGIN, SC US",
+      "DATE": 2015,
+      "PRCP": 62.03,
+      "TAVG": 64.6,
+      "TMAX": 75.9,
+      "TMIN": 53.4
+    }
+  ],
+  "USC00381944": [
+    {
+      "STATION": "USC00381944",
+      "NAME": "COLUMBIA UNIVERSITY OF SC, SC US",
+      "DATE": 1999,
+      "PRCP": 36.01,
+      "TAVG": 67.2,
+      "TMAX": 79.5,
+      "TMIN": 54.9
+    },
+    {
+      "STATION": "USC00381944",
+      "NAME": "COLUMBIA UNIVERSITY OF SC, SC US",
+      "DATE": 2000,
+      "PRCP": 43.71,
+      "TAVG": 65.4,
+      "TMAX": 78.1,
+      "TMIN": 52.6
+    },
+    {
+      "STATION": "USC00381944",
+      "NAME": "COLUMBIA UNIVERSITY OF SC, SC US",
+      "DATE": 2001,
+      "PRCP": 32.5,
+      "TAVG": 66.7,
+      "TMAX": 79.1,
+      "TMIN": 54.3
+    },
+    {
+      "STATION": "USC00381944",
+      "NAME": "COLUMBIA UNIVERSITY OF SC, SC US",
+      "DATE": 2002,
+      "PRCP": 44.91,
+      "TAVG": 67.1,
+      "TMAX": 79,
+      "TMIN": 55.2
+    },
+    {
+      "STATION": "USC00381944",
+      "NAME": "COLUMBIA UNIVERSITY OF SC, SC US",
+      "DATE": 2003,
+      "PRCP": 57.2,
+      "TAVG": 65.7,
+      "TMAX": 77.2,
+      "TMIN": 54.3
+    },
+    {
+      "STATION": "USC00381944",
+      "NAME": "COLUMBIA UNIVERSITY OF SC, SC US",
+      "DATE": 2005,
+      "PRCP": 46.14,
+      "TAVG": 66.4,
+      "TMAX": 78.4,
+      "TMIN": 54.4
+    },
+    {
+      "STATION": "USC00381944",
+      "NAME": "COLUMBIA UNIVERSITY OF SC, SC US",
+      "DATE": 2007,
+      "PRCP": 32.23,
+      "TAVG": 68.7,
+      "TMAX": 81,
+      "TMIN": 56.4
+    },
+    {
+      "STATION": "USC00381944",
+      "NAME": "COLUMBIA UNIVERSITY OF SC, SC US",
+      "DATE": 2009,
+      "PRCP": 51.56,
+      "TAVG": 76.4,
+      "TMAX": 82.4,
+      "TMIN": 37.2
+    },
+    {
+      "STATION": "USC00381944",
+      "NAME": "COLUMBIA UNIVERSITY OF SC, SC US",
+      "DATE": 2010,
+      "PRCP": 38.45,
+      "TAVG": 66.5,
+      "TMAX": 78.3,
+      "TMIN": 54.7
+    },
+    {
+      "STATION": "USC00381944",
+      "NAME": "COLUMBIA UNIVERSITY OF SC, SC US",
+      "DATE": 2011,
+      "PRCP": 47.11,
+      "TAVG": 67.8,
+      "TMAX": 80,
+      "TMIN": 55.5
+    },
+    {
+      "STATION": "USC00381944",
+      "NAME": "COLUMBIA UNIVERSITY OF SC, SC US",
+      "DATE": 2012,
+      "PRCP": 45.87,
+      "TAVG": 68.4,
+      "TMAX": 80.1,
+      "TMIN": 56.7
+    },
+    {
+      "STATION": "USC00381944",
+      "NAME": "COLUMBIA UNIVERSITY OF SC, SC US",
+      "DATE": 2013,
+      "PRCP": 57.08,
+      "TAVG": 76.4,
+      "TMAX": 82.4,
+      "TMIN": 54
+    },
+    {
+      "STATION": "USC00381944",
+      "NAME": "COLUMBIA UNIVERSITY OF SC, SC US",
+      "DATE": 2014,
+      "PRCP": 47.42,
+      "TAVG": 65.5,
+      "TMAX": 77.9,
+      "TMIN": 53.1
+    },
+    {
+      "STATION": "USC00381944",
+      "NAME": "COLUMBIA UNIVERSITY OF SC, SC US",
+      "DATE": 2015,
+      "PRCP": 70.87,
+      "TAVG": 76.4,
+      "TMAX": 82.4,
+      "TMIN": 55.2
+    },
+    {
+      "STATION": "USC00381944",
+      "NAME": "COLUMBIA UNIVERSITY OF SC, SC US",
+      "DATE": 2016,
+      "PRCP": 40.55,
+      "TAVG": 68.2,
+      "TMAX": 80.1,
+      "TMIN": 56.3
+    },
+    {
+      "STATION": "USC00381944",
+      "NAME": "COLUMBIA UNIVERSITY OF SC, SC US",
+      "DATE": 2017,
+      "PRCP": 50.75,
+      "TAVG": 76.4,
+      "TMAX": 82.4,
+      "TMIN": 56.3
+    },
+    {
+      "STATION": "USC00381944",
+      "NAME": "COLUMBIA UNIVERSITY OF SC, SC US",
+      "DATE": 2018,
+      "PRCP": 51.19,
+      "TAVG": 67.5,
+      "TMAX": 79.1,
+      "TMIN": 56
+    }
+  ],
+  "USW00013883": [
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 1999,
+      "PRCP": 30.02,
+      "TAVG": 63.9,
+      "TMAX": 75.7,
+      "TMIN": 52.1
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2000,
+      "PRCP": 36.22,
+      "TAVG": 63,
+      "TMAX": 74.7,
+      "TMIN": 51.3
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2001,
+      "PRCP": 28.05,
+      "TAVG": 64.3,
+      "TMAX": 76.2,
+      "TMIN": 52.5
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2002,
+      "PRCP": 47.14,
+      "TAVG": 64.7,
+      "TMAX": 75.4,
+      "TMIN": 54
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2003,
+      "PRCP": 56.48,
+      "TAVG": 63,
+      "TMAX": 73.4,
+      "TMIN": 52.5
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2004,
+      "PRCP": 41.68,
+      "TAVG": 64.1,
+      "TMAX": 74.8,
+      "TMIN": 53.3
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2005,
+      "PRCP": 46.03,
+      "TAVG": 63.8,
+      "TMAX": 74.8,
+      "TMIN": 52.8
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2006,
+      "PRCP": 43.21,
+      "TAVG": 64.2,
+      "TMAX": 75.8,
+      "TMIN": 52.7
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2007,
+      "PRCP": 31.4,
+      "TAVG": 65.2,
+      "TMAX": 77.1,
+      "TMIN": 53.3
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2008,
+      "PRCP": 44.3,
+      "TAVG": 63.9,
+      "TMAX": 75.2,
+      "TMIN": 52.6
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2009,
+      "PRCP": 54.98,
+      "TAVG": 63.8,
+      "TMAX": 74.4,
+      "TMIN": 53.1
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2010,
+      "PRCP": 35.53,
+      "TAVG": 64,
+      "TMAX": 75.8,
+      "TMIN": 52.3
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2011,
+      "PRCP": 36.63,
+      "TAVG": 65.9,
+      "TMAX": 77.8,
+      "TMIN": 54
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2012,
+      "PRCP": 42.76,
+      "TAVG": 66.4,
+      "TMAX": 77.8,
+      "TMIN": 55.1
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2013,
+      "PRCP": 55.5,
+      "TAVG": 64.4,
+      "TMAX": 75.1,
+      "TMIN": 53.7
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2014,
+      "PRCP": 42.23,
+      "TAVG": 64.4,
+      "TMAX": 75.7,
+      "TMIN": 53
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2015,
+      "PRCP": 63.61,
+      "TAVG": 66.5,
+      "TMAX": 77.3,
+      "TMIN": 55.7
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2016,
+      "PRCP": 39.56,
+      "TAVG": 66.9,
+      "TMAX": 78.2,
+      "TMIN": 55.5
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2017,
+      "PRCP": 47.48,
+      "TAVG": 67.3,
+      "TMAX": 78.8,
+      "TMIN": 55.8
+    },
+    {
+      "STATION": "USW00013883",
+      "NAME": "COLUMBIA METROPOLITAN AIRPORT, SC US",
+      "DATE": 2018,
+      "PRCP": 49.58,
+      "TAVG": 66.5,
+      "TMAX": 77.1,
+      "TMIN": 55.7
+    }
+  ]
+}
