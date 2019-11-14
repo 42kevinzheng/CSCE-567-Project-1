@@ -1,5 +1,33 @@
-# Visualization Project
+# Program:'567_project_01'
 
-Download the files, it will be downloaded as a zip folder. Unzip the folder and then open the index.html file. The file will open up on the default web browser. 
+CSCE 567 Project 01
 
-Read the proposal.docx to understand the graphs.
+## Usage
+
+## Building
+
+run on local host execute the `server.sh` file. Use the flags, start and stop to toggle the server.
+
+## Project Proposal
+
+Submit a proposal and include the following (DUE FEB 13):
+
+1. Logan Mancuso & Kevin Zheng
+2. Data Set Stored in data directory
+3. Data Objective: Explore energy Consumption
+  <https://www.ncdc.noaa.gov/cdo-web/datasets>
+
+## Sources
+
+Author/CopyRight:
+
+* Mancuso, Logan
+* Zheng, Kevin
+
+Language:
+
+* JavaScript
+* HTML
+* CSS
+
+Last Edit Date: 02-13-2019--18:09:05
